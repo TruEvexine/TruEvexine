@@ -6,7 +6,7 @@ About Me
 
 💡 Im interested on Full Stack, databases and web development <br>
 
-📫 Contact:rogelioemmanuelceja@gmail.com <br>
+📫 Contact: rogelioemmanuelceja@gmail.com <br>
 
 🛠️ Languages:
 <div align="center">

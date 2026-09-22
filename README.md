@@ -16,7 +16,7 @@ About Me
 <div align="center">
  
   <a href="https://truevexine.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
   
   <a href="rogelioemmanuelceja@gmail.com" target="_blank">

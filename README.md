@@ -4,14 +4,17 @@ About Me
 
 📚 Keeping learning about new technologies and better developing practices 
 
-💡 Im interested on Full Stack, databases and web development
-📫 Contact:rogelioemmanuelceja@gmail.com
+💡 Im interested on Full Stack, databases and web development <br>
+
+📫 Contact:rogelioemmanuelceja@gmail.com <br>
+
 🛠️ Languages:
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,mysql,cpp,html,js,css" alt="Abilities" />
   </a>
 </div>
+
 🌐 Look into my work:
 <div align="center">
  

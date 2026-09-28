@@ -22,7 +22,7 @@ About Me
     <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
   
-  <a href="rogelioemmanuelceja@gmail.com" target="_blank">
+  <a href="mailto:rogelioemmanuelceja@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="http://rogelioemmanuel.com/"><img src="https://img.shields.io/badge/Portfolio-http://rogelioemmanuel.com/-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="http://rogelioemmanuel.com/"><img src="https://img.shields.io/badge/Portfolio-rogelioemmanuel.com-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/rogelio-emmanuel-ceja-acosta-6aa659231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rogelioemmanuelceja@gmail.com"><img src="https://img.shields.io/badge/Email-1D2D44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>

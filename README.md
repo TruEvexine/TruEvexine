@@ -38,4 +38,4 @@ Built solo in Java 17 (started in Swing, finished in JavaFX) with Maven. *In dev
 
 ---
 
-<sub>🇲🇽 ¿Prefieres español? <a href="https://truevexine.github.io/">Mi portafolio</a> también está en español.</sub>
+<sub>🇲🇽 ¿Prefieres español? <a href="http://rogelioemmanuel.com/">Mi portafolio</a> también está en español.</sub>
